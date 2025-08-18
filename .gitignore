@@ -109,7 +109,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 .idea
 env/
@@ -123,7 +122,6 @@ venv.bak/
 .spyproject
 
 # VSCode project settings
-.vscode/
 .devcontainer/
 
 # Rope project settings
@@ -173,3 +171,5 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+config.bat
+node_modules
